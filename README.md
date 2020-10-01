@@ -1,34 +1,3 @@
-.. You should enable this project on travis-ci.org and coveralls.io to make
-   these badges work. The necessary Travis and Coverage config files have been
-   generated for you.
-
-.. image:: https://travis-ci.org/espona/ckanext-restricted.svg?branch=master
-    :target: https://travis-ci.org/espona/ckanext-restricted
-
-.. image:: https://coveralls.io/repos/espona/ckanext-restricted/badge.svg
-  :target: https://coveralls.io/r/espona/ckanext-restricted
-
-.. image:: https://img.shields.io/pypi/dm/ckanext-restricted.svg
-    :target: https://pypi.python.org/pypi//ckanext-restricted/
-    :alt: Downloads
-
-.. image:: https://img.shields.io/pypi/v/ckanext-restricted.svg
-    :target: https://pypi.python.org/pypi/ckanext-restricted/
-    :alt: Latest Version
-
-.. image:: https://img.shields.io/pypi/pyversions/ckanext-restricted.svg
-    :target: https://pypi.python.org/pypi/ckanext-restricted/
-    :alt: Supported Python versions
-
-.. image:: https://img.shields.io/pypi/status/ckanext-restricted.svg
-    :target: https://pypi.python.org/pypi/ckanext-restricted/
-    :alt: Development Status
-
-.. image:: https://img.shields.io/pypi/l/ckanext-restricted.svg
-    :target: https://pypi.python.org/pypi/ckanext-restricted/
-    :alt: License
-
-=============
 ckanext-restricted
 =============
 
